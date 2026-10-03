@@ -1,0 +1,25 @@
+ticket,category,urgency,clean_ticket,ticket_id,priority
+I was charged twice for my subscription,billing,high,i was charged twice for my subscription,TICKET-001,3
+My payment failed while buying the product,billing,high,my payment failed while buying the product,TICKET-002,3
+I need a refund for my order,billing,medium,i need a refund for my order,TICKET-003,2
+There is an incorrect charge on my bill,billing,high,there is an incorrect charge on my bill,TICKET-004,3
+My credit card payment is not working,billing,high,my credit card payment is not working,TICKET-005,3
+The application keeps crashing,technical,high,the application keeps crashing,TICKET-006,3
+The website is showing an error,technical,high,the website is showing an error,TICKET-007,3
+My app is not loading,technical,medium,my app is not loading,TICKET-008,2
+The website stopped working,technical,high,the website stopped working,TICKET-009,3
+I cannot open the application,technical,medium,i cannot open the application,TICKET-010,2
+I cannot login to my account,account,high,i cannot login to my account,TICKET-011,3
+I forgot my password,account,medium,i forgot my password,TICKET-012,2
+Please help me reset my password,account,medium,please help me reset my password,TICKET-013,2
+My account is locked,account,high,my account is locked,TICKET-014,3
+I cannot access my profile,account,medium,i cannot access my profile,TICKET-015,2
+The product I received is damaged,product,high,the product i received is damaged,TICKET-016,3
+I received the wrong product,product,high,i received the wrong product,TICKET-017,3
+The product is missing from my order,product,medium,the product is missing from my order,TICKET-018,2
+I want information about this product,product,low,i want information about this product,TICKET-019,1
+The product quality is poor,product,medium,the product quality is poor,TICKET-020,2
+Someone accessed my account and I cannot login,account,critical,someone accessed my account and i cannot login,TICKET-021,4
+My account has been hacked,account,critical,my account has been hacked,TICKET-022,4
+I was charged an extra amount,billing,medium,i was charged an extra amount,TICKET-023,2
+The application is completely down,technical,critical,the application is completely down,TICKET-024,4

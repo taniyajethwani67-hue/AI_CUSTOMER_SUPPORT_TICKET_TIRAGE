@@ -1,0 +1,17 @@
+ticket_id,ticket,predicted_category,predicted_urgency,confidence
+TICKET-025,"I cant access my account 
+",account,high,0.43
+TICKET-025,"My app is crashing 
+",technical,high,0.37
+TICKET-025,I have paid two times for my susbsrciption,account,high,0.29
+TICKET-025,My account has been hacked ,account,high,0.39
+TICKET-025,My account has been hacked ,account,high,0.39
+TICKET-025,"my account is hacked 
+",account,high,0.39
+TICKET-025,I want information about this product ,product,high,0.4
+TICKET-025,i want information about this product ,product,high,0.4
+TICKET-025,"my account has been hacked 
+",account,high,0.39
+TICKET-025,I want information of my product ,product,high,0.4
+TICKET-025,I have paid two times for my susbcription,account,high,0.29
+TICKET-025,I paid two times for my subscription ,billing,high,0.33
